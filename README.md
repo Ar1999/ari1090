@@ -1,8 +1,8 @@
-## Installation 
+## `Installation` 
 > npm install ari1090
 
-## `Tebak Gambar`
+### `Tebak Gambar`
 ```js
 const ari1090 = require("ari1090")
-ari1090.tebakgambar().then(soal => cosole.log(soal))
+ari1090.tebakgambar().then(soal => console.log(soal))
 ```

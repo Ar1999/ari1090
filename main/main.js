@@ -17,3 +17,6 @@ function tebakgambar() {
 		}).catch(reject)
 	})
 };
+
+
+module.exports.tebakgambar = tebakgambar

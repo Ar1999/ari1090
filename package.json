@@ -12,9 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ari1090",
-  "license": "ISC"
-},
-"repository" : {
+  "license": "ISC",
+  "repository" : {
   "type" : "git",
   "url": "git+https://github.com/Ar1999/ari1090"
 },
@@ -22,3 +21,5 @@
   url: "https://github.com/Ar1999/ari1090/issues"
 },
 "homepages": "https://github.com/Ar1999/ari1090/blob/main/README.md"
+}
+

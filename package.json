@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "name": "ari1090",
+  "version": "1.0.0",
+  "description": "youtube ari1090",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ari1090",
+  "license": "ISC"
+}

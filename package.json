@@ -4,22 +4,27 @@
     "cheerio": "^1.0.0-rc.10"
   },
   "name": "ari1090",
-  "version": "1.0.0",
-  "description": "youtube ari1090",
+  "version": "1.0.2",
+  "description": "One for all",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "fun",
+    "game",
+    "info",
+    "search"
+  ],
   "author": "ari1090",
   "license": "ISC",
-  "repository" : {
-  "type" : "git",
-  "url": "git+https://github.com/Ar1999/ari1090"
-},
-"bugs": {
-  "url": "https://github.com/Ar1999/ari1090/issues"
-},
-"homepages": "https://github.com/Ar1999/ari1090/blob/main/README.md"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ar1999/ari1090"
+  },
+  "bugs": {
+    "url": "https://github.com/Ar1999/ari1090/issues"
+  },
+  "homepages": "https://github.com/Ar1999/ari1090/blob/main/README.md"
 }
-
